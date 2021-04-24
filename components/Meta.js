@@ -13,9 +13,9 @@ const Meta = ({title, keywords, description}) => {
 };
 
 Meta.defaultProps = {
-    title: 'Web Newz',
-    keywords: 'web development, programming',
-    description: 'Get the latest news in the web dev'
+    title: 'Lucas Aguiar Marketing',
+    keywords: 'marketing, agência',
+    description: 'Receba uma consultoria e acompanhamento de marketing.'
 }
 
 export default Meta;

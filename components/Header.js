@@ -7,7 +7,7 @@ const Header = () => {
         <span>Lucas Aguiar</span> Agência de Marketing
       </h1>
       <p className={headerStyles.description}>
-        Keep up to date with the latest web dev news
+        Entre em contato para fazer uma consultoria!
       </p>
     </div>
   );
